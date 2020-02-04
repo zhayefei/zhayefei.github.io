@@ -4,7 +4,7 @@ title:      2020年春节计划              # 标题
 subtitle:   My Plan #副标题
 date:       2020-02-04              # 时间
 author:     Leo                      # 作者
-header-img: img/the_beatles.jpeg    #这篇文章标题背景图片
+header-img: img/jingdu_lake.jpeg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 生活
