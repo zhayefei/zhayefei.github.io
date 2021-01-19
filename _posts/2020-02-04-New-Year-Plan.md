@@ -14,22 +14,23 @@ tags:                               #标签
 > 预则立，不预则废。  
 > The following is the plan of my new year2020.
 
+***
 
 ### 2020年春节规划如下：
-- [x] 个人博客开通
-- [x] 斯坦福公开课CS224n
+- [x]  个人博客开通
+- [x]  斯坦福公开课CS224n
 
 ***
 
 ### 2020年度个人目标:
 - 身材管理
-    - [ ] 体重: 55kg（目前59kg)
-    - [ ] 肌肉: 明显的胸肌和腹肌6块
+    - [ ]  体重: 55kg（目前59kg)
+    - [ ]  肌肉: 明显的胸肌和腹肌6块
 - 英语学习
-    - [ ] 听力/口语:简单沟通没问题，出国旅行级别。听力不用看字幕，能*听懂*国外公开课
+    - [ ]  听力/口语:简单沟通没问题，出国旅行级别。听力不用看字幕，能*听懂*国外公开课
 
 - 专业技术
-    - [x] 继续[深耕](https://github.com/zhayefei/deeplearning_summary)，包括NLP以及DL。
+    - [x]  继续[深耕](https://github.com/zhayefei/deeplearning_summary)，包括NLP以及DL。
     
 ***
 
